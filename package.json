@@ -7,9 +7,12 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@uppy/webcam": "^3.3.1",
+    "bootstrap": "^5.3.0",
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
+    "vue-web-cam": "^1.9.0",
     "vuex": "^4.0.0"
   },
   "devDependencies": {
